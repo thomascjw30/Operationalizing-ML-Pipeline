@@ -15,7 +15,7 @@ This project is part of the Machine Learning Engineer with Azure Nanodegree prog
 ## Key Steps
 
 
-
+<img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/automl-run.PNG">
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
