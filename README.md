@@ -4,6 +4,8 @@
 This project is part of the Machine Learning Engineer with Azure Nanodegree program. This is project #2 and I am tasked to use Azure & Python SDK & Swagger to create a model (using AutoML), select best model, deploy best model via an endpoint, publish the endpoint and finally consume it via HTTP API.
 
 ## Architectural Diagram
+<img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/Untitled.png">
+
 1.) Authentication - Using Git Bash to login into Azure via 'az login' command
 <br>2.) Auto ML Experiment - Upload the banking data and run AutoML to retrieve the best performing model
 <br>3.) Deploying the Best Model - Using the results from AutoML, I've selected the best performing model (Accuracy) and deployed it 
