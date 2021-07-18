@@ -1,6 +1,7 @@
 
 # Operationizing Machine Learning Pipelines by Thomas Choong
 
+## Overview
 This project is part of the Machine Learning Engineer with Azure Nanodegree program. This is project #2 and I am tasked to use Azure & Python SDK & Swagger to create a model (using AutoML), select best model, deploy best model via an endpoint, publish the endpoint and finally consume it via HTTP API.
 
 I am utilizing bank marketing data (provided by Udacity) to create a classification model. Ultimate goal, is to have this model predict whether a customer will subscribe to a banking product.
@@ -34,7 +35,7 @@ As you can see the status of the endpoint is active and in Healthy status, addit
 4.) Enable Logging - Logging was enabled via Git Bash, however, I needed to first download the config.json file into my main directory, from there I utilized Git Bash to turn on logging and insights by executing the logs.py file (command: 'python logs.py' in Git Bash). I did not make any changes to the logs.py file because the endpoint name was set to 'demo-model-deploy' (if I had chosen a different endpoint name, I would have had to adjust that in the logs.py file)
 
 <img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/model_deployment_insights_activated.PNG">
-
+<img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/logs.py%20screenshot%202.png">
 Insights Page
 <img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/insights_page.PNG">
 
@@ -63,6 +64,8 @@ Available Pipelines After Jupyter Notebook execution
 
 Final Pipeline Active Status
 <img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/pipeline_status_active.PNG">
+<img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/active_endpoint.png">
+
 
 
 
