@@ -4,7 +4,7 @@
 ## Overview
 This project is part of the Machine Learning Engineer with Azure Nanodegree program. This is project #2 and I am tasked to use Azure & Python SDK & Swagger to create a model (using AutoML), select best model, deploy best model via an endpoint, publish the endpoint and finally consume it via HTTP API.
 
-I am utilizing bank marketing data (provided by Udacity) to create a classification model. Ultimate goal, is to have this model predict whether a customer will subscribe to a banking product.
+I am utilizing bank marketing data (provided by Udacity) to create a classification model. Ultimate goal, is to have this model predict whether a customer will subscribe to a banking product. Lastly, this is done through creating, consuming and publishing an ML Pipeline.
 
 ## Architectural Diagram
 <img src="https://github.com/thomascjw30/operationalizing-ml-pipeline/blob/main/Screenshots/Untitled.png">
