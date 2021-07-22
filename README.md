@@ -1,5 +1,5 @@
 
-# Operationizing Machine Learning Pipelines by Thomas Choong
+# Operationalizing Machine Learning Pipelines by Thomas Choong
 
 ## Overview
 This project is part of the Machine Learning Engineer with Azure Nanodegree program. This is project #2 and I am tasked to use Azure & Python SDK & Swagger to create a model (using AutoML), select best model, deploy best model via an endpoint, publish the endpoint and finally consume it via HTTP API.
